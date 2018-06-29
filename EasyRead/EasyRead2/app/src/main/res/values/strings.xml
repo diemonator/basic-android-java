@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">EasyRead</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="activityMainHome">Home</string>
+    <string name="activityMainReg_LogIn">Log In/ Register</string>
+    <string name="activityMainLogOut">Log Out</string>
+    <string name="activityMainRecorder">Recorder</string>
+    <string name="activityMainMyBooks">Books</string>
+    <string name="activityShare">Share</string>
+    <string name="action_settings">Settings</string>
+    <string name="Name">Easy Read</string>
+    <string name="activityMain_additional">Communicate</string>
+    <string name="moto">The only app with interactive reading</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login/Register -->
+    <string name="registerInfo">Welcome to our Registration form. Please fill in all inputs with your details</string>
+    <string name="welcome">Welcome!</string>
+    <string name="infoReg_login">If you have a registration you can log in from our form. If you haven\'t already. Do it! Just with a simple click of the button Register.</string>
+    <string name="prompt_email">Email</string>
+    <string name="btnRegister">Register</string>
+    <string name="prompt_password">Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_recorder">Recorder</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_register">Register</string>
+    <string name="translate_text_view">Enter words to translate above</string>
+    <string name="translate_button">Translate</string>
+
+    <string name="speech_input_phrase">Say the Phrase</string>
+    <string name="stt_not_supported_message">You Device does not support speech to text</string>
+
+    <string-array name="language_array">
+
+        <item>Dutch</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Italian</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+
+    </string-array>
+    <string name="title_activity_my_books">My Books</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    ///search
+    <string name="search_header">Search your book</string>
+    <string name="search_btnRequest">Search</string>
+    <string name="search_etRequest">Enter your a part of book, part author or part title</string>
+    <string name="search_navText">Search a book</string>
+    <string name="search_btnRequestVoice">Search by voice</string>
+    <string name="Books_read">Reader</string>
+</resources>
